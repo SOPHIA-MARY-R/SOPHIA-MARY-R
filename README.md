@@ -18,5 +18,3 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=SOPHIA-MARY-R&style=for-the-badge)
-<br>

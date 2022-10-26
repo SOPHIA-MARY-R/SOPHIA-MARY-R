@@ -1,12 +1,12 @@
-### Konnichiwa👋
+# Hello, this is Sophia 🙂
 
 <!--
 **SOPHIA-MARY-R/SOPHIA-MARY-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-* I'm an eager beaver and a visionary.
-* Fascinated towards web design and exploring more on it 😃
-* Reach me thru [LinkedIn](https://www.linkedin.com/in/sophia-mary-r-689a971ba/)
+* I'm an eager beaver and a visionary. ✨
+* Fascinated towards web development and exploring more on it 😃
+* Reach me thru [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sophia-mary-r-689a971ba/)
 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SOPHIA-MARY-R&show_icons=true&theme=dark" align="center" /></div>

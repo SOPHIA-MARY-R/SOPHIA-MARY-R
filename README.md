@@ -14,6 +14,7 @@
 <br />
 
 <br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOPHIA-MARY-R&layout=compact&theme=dark" align="center" /></div>
 <br />
 
 

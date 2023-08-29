@@ -3,7 +3,7 @@
 <br/>
 
 ## Tech Stack I work with 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,django,react,mysql,sqlite,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,django,react,mysql,sqlite)](https://skillicons.dev)<br/>
 
 ## Tools & Platforms
 [![SkillIcons](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)<br/>

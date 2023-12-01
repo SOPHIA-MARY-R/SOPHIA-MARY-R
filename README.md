@@ -9,8 +9,7 @@
 [![SkillIcons](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)<br/>
 
 ## Git Status
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SOPHIA-MARY-R&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=SOPHIA-MARY-R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SOPHIA-MARY-R&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=SOPHIA-MARY-R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 <div id="badges" align="center">

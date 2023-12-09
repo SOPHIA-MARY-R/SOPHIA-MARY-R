@@ -3,10 +3,10 @@
 <br/>
 
 ## Tech Stack I work with 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,django,flask,react,mysql,sqlite)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,django,flask,react,mysql,sqlite,mongodb)](https://skillicons.dev)<br/>
 
 ## Tools & Platforms
-[![SkillIcons](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=vscode,git,github,idea)](https://skillicons.dev)<br/>
 
 ## Git Status
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SOPHIA-MARY-R&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOPHIA-MARY-R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
